@@ -1,0 +1,26 @@
+
+body { background-color: bisque;}
+
+
+
+.unko{ font-size: 99px; }
+
+.unko2 { background-color; font-size: 50px;}
+
+.unko3 { font-size: 20px; font-weight: bold;
+    
+}
+
+#img { margin: 100px;}
+
+a:hover { color: red;}
+
+.ab {color: honeydew; background-color: black;}
+
+@media screen and (max-width: 700px)
+{ 
+    .ab{background-color: orangered; }
+
+}
+
+
